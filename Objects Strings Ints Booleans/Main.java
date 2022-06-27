@@ -16,6 +16,11 @@ public class Main {
         h.powerOn();
         System.out.println(h.power);
         System.out.println(h.volume);
+        System.out.println(h.playPause);
+        h.playPause(); /*play pause now switches between on and off*/
+        System.out.println(h.playPause);
+        h.playPause();
+        System.out.println(h.playPause);
     }
 
 }
