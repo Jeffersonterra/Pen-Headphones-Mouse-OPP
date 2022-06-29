@@ -11,8 +11,9 @@ public class Main {
         m2.ScrollDOWN();
         m2.leftClick();
         m2.connect();
+        System.out.println("Is the mouse3 ambidextrous?");
         System.out.println(m3.ambidextrous);
         trackpad.move();
-        
+        System.out.println(track.ambidextrous);
     }
 }
