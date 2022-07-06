@@ -19,6 +19,8 @@ public class Main {
         System.out.println(track.ambidextrous);
         System.out.println("What is the trackpad's size ? ");
         System.out.println(track.size + track.sizetipe);
+        System.out.println("What is the trackpad's color ? ");
+        System.out.println(track.color);
 
     }
 }
