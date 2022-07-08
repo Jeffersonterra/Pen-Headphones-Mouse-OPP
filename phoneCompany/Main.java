@@ -6,8 +6,14 @@ public class Main {
         motorolla moto = new motorolla();
         sansung sansung = new sansung();
         smartphone smart = new smartphone();
-        iphone.makeCall();
+        apple.makeCall();
         motorolla.makeCall();
         sansung.makeCall();
+        apple.makeCall();
+        apple.saveContac();
+        System.out.println(moto.size);
+        System.out.println(apple.screensize);
+        apple.BluetoothON();
+        apple.BluetoothConnect();
     }
 }
