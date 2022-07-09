@@ -15,5 +15,6 @@ public class Main {
         System.out.println(apple.screensize);
         apple.BluetoothON();
         apple.BluetoothConnect();
+        aplle.Whatfone();
     }
 }
