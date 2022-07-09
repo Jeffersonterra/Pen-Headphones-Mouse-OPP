@@ -7,7 +7,7 @@ public class iphone extends Phone {
     
     public static void Whatfone() {
 
-        System.out.println("Iam a Iphone!");
+        System.out.println("I am a Iphone!");
 
        
 
