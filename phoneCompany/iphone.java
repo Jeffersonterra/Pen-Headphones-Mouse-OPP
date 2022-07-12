@@ -6,7 +6,7 @@ public class iphone extends Phone {
     String sizetipe = "cm";
     Boolean fulltouch = true;
     String phonename = "iPhone";
-
+    String phoneowner = "";
 
     public static void Whatfone() {
 
