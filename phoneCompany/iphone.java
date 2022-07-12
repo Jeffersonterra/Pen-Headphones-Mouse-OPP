@@ -5,6 +5,7 @@ public class iphone extends Phone {
     double screensize = 5.8;
     String sizetipe = "cm";
     Boolean fulltouch = true;
+    String phonename = "iPhone";
 
 
     public static void Whatfone() {
